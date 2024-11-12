@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","56","test_method01[3]","testcases","Tue Nov 12 14:17:51 CST 2024","passed","Tue Nov 12 14:17:51 CST 2024","TestClass01","test_file","",""
+"","70","test_method01[2]","testcases","Tue Nov 12 14:17:51 CST 2024","passed","Tue Nov 12 14:17:51 CST 2024","TestClass01","test_file","",""
+"","88","test_method01[1]","testcases","Tue Nov 12 14:17:51 CST 2024","passed","Tue Nov 12 14:17:51 CST 2024","TestClass01","test_file","",""
